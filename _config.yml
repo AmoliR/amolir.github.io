@@ -1,0 +1,25 @@
+title: <p align="center"> Amoli Rajgor </p>
+
+logo: "/images/profile.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/amolirajgor">LinkedIn</a> |
+  <a href="https://www.researchgate.net/profile/Amoli_Rajgor">Researchgate</a> |
+  <a href="https://gitlab.com/amoli13">GitLab</a> |
+  <a href="https://github.com/AmoliR">GitHub</a> 
+  </p>
+  
+  <p align="justify">
+  Data scientist with 3+ years of experience in designing, developing and deploying data science projects.
+  My abilities as a Data Scientist are rooted in a sturdy education in mathematics.
+  <br><br>
+  I began with a bachelor's degree in Information Technology. My keen interest in statistics and
+  analytics, led me to pursue Master’s degree in Computer Science & Engineering with specialization
+  in Data Science and Analytics.
+  <br><br>
+  </p>
+
+markdown: kramdown # GFM can also be used
+theme: jekyll-theme-minimal
