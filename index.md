@@ -7,6 +7,19 @@
 {:toc}
 
 ---
+## NLP Projects
+
+### 🆕 Content-Based Filtering: NLP Based Book Recommender Using BERT-Embeddings
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/nlp-book-recommendation.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=github)](https://github.com/AmoliR/nlp-for-book-recommendation)
+<div style="text-align: justify"> I created a content-based book recommendation system that, given a book name, suggests books that are similar to it. The choice is made considering concise information of the book such as its theme, author, series, and summary of the description. The succinct data of keywords that is provided to the recommender system is generated using NLP techniques such as word embeddings. Keywords that most describe the book are extracted from the book description using BERT-embeddings, this word collection is further reduced using the frequentist feature extraction method TF-IDF that ranks the words based on their frequency in the book and the corpus.
+</div>
+<br>
+<center><img src="images/nlp-book-recommendation-architecture.svg"/></center>
+<br>
+
+---
 ## Data Science Projects
 
 ### Payment Default Prediction
