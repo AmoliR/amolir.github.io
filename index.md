@@ -9,12 +9,13 @@
 ---
 ## NLP Projects
 
-### 🚧 🆕 Semisupervised Aspect Extraction: Demonstration of Topic Modelling Techniques on Restaurant Reviews¶
+### 🚧 🆕 Semisupervised Aspect Extraction: Demonstration of Topic Modelling Techniques on Restaurant Reviews
 
 [![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#work-in-progress)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/absa-for-restaurant-reviews/aspect_extraction.html)
 
 <div style="text-align: justify"> 
-Given a set of restaurant reviews, identify and extract words or targets belonging to the user sentiment presented in it. Use domain knowledge to enhance the performance of the topic model by setting prior probabilities for keywords.
+Given a set of restaurant reviews, identify and extract words or targets belonging to the user sentiment presented in it. Use domain knowledge to enhance the performance of the topic model by setting prior probabilities for the keywords.
 </div>
 <br>
 <center><img src="images/aspect_extraction.svg"/></center>
